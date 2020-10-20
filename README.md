@@ -45,10 +45,10 @@ The full salaries dataset can be found [here](https://github.com/a31kim/baltimor
 The values chosen for analysis were average annual salary, average gross pay, pay discrepancy, percent residing in Baltimore city, percent residing in Baltimore County, and percent residing outside of Baltimore.
 
 The intial, randomly chosen cluster points are shown in the below image.
-![](.gitbook/assets/initial clusters.png)
+![](.gitbook/assets/initial_clusters.png)
 
 Following the standardization and minimum distance calculations, a four-point cluster analysis was performed using the Solver tool. The resulting cluster points and their related datapoints can be seen in the below image.
-![](.gitbook/assets/solver clusters.png)
+![](.gitbook/assets/solver_clusters.png)
 
 **Cluster Point Characteristics**
 * _Circuit Court_: High salary, large pay discrepancy, relatively high percent reside outside of Baltimore
