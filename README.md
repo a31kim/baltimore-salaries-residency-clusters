@@ -3,7 +3,7 @@
 ## Background
 City government serves as a major source of employment for many residents of metropolitan areas. With employment opportunities ranging from the fire department to crossing guards, public service positions provide jobs for a diverse range of people with different qualifications and backgrounds. Although city employees typically tend to reside within the city, it is not uncommon for people to commute to work from surrounding areas outside of the city limits.
 
-With its large suburban surroundings and expansive city government, Baltimore serves as a perfect example of the wide variety of public employment opportunities and employee characteristics that defines many urban areas. This analysis seeks to determine if Baltimore City's public agencies can be grouped into clusters based on various statistics: average salaries, gross salaries, discrepancy between average and gross pay, and residency. This data will be used to complete a cluster analysis that separates Baltimore City's agencies into clusters centered around distinct focus points.
+With its large suburban surroundings and expansive city government, Baltimore serves as a perfect example of the wide variety of public employment opportunities and employee characteristics that define many urban areas. This analysis seeks to determine if Baltimore City's public agencies can be grouped into clusters based on various statistics: average salaries, gross salaries, discrepancy between average and gross pay, and residency. This data will be used to complete a cluster analysis that separates Baltimore City's agencies into clusters centered around distinct focus points.
 
 
 ## Business Question
