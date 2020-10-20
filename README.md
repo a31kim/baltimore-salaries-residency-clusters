@@ -64,7 +64,7 @@ The above characteristics demonstrate a significant difference in characteristic
 **Observations**
 * These results seem to imply that the vast majority of city government employees reside within Baltimore city or Baltimore County.
 * The only cluster point with a positive pay discrepancy (gross minus annual pay) is the _COMP-Real Estate_ agency, which has the highest average salary and consists of almost entirely Baltimore residents. In direct contrast, the _Elections_ agency has the lowest average salary and is based completely in Baltimore. This seems to imply that area of residence doesn't have a particularly large impact on grouping.
-* The Health Department cluster values seems to be right in the middle of the other points. This might imply that a third cluster is unnecessary, and that three cluster groups would have been sufficient.
+* The Health Department cluster values seems to be right in the middle of the other points. This might imply that a third cluster is unnecessary, and that three cluster groups would have been sufficient. However, a large number of agencies are grouped around this cluster point, as shown by the graph above.
 
 
 ## Data Application and Business Answer
