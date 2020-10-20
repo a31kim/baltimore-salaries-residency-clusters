@@ -13,7 +13,7 @@ _**Can the Baltimore City public employment agencies be grouped according to the
 
 All of the data used in this project was gathered from the [City Government tab](https://data.baltimorecity.gov/browse?category=City+Government) of [Open Baltimore's](https://data.baltimorecity.gov/) public data.
 
-**Open Baltimore** is an up-to-date open data source released by the city of Baltimore. It hosts datasets that range in topic from crime to transportation, and serves as a reliable source for analysis.
+**Open Baltimore** is an up-to-date open data source released by the city of Baltimore. It hosts datasets that range in topic from crime to transportation, and serves as a reliable source of open data for analysis of the city's statistics.
 
 The folder containing the original data files can be found in the repository [here](https://github.com/a31kim/baltimore-salaries-residency-clusters/tree/main/original_data), or individually below.
 1. [Employee Salaries Data](https://github.com/a31kim/baltimore-salaries-residency-clusters/blob/main/original_data/raw_salaries.xlsx)
